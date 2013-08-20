@@ -19,6 +19,10 @@
   <Dependencies>
     <Dependency>
       <Name>nant</Name>
+      <Version>
+	<Name>&gt;0.91</Name>
+      </Version>
+      <IsOptional>false</IsOptional>
     </Dependency>
   </Dependencies>
   
@@ -27,7 +31,6 @@
       <Name>Core</Name>
       <Description>jQuery Core Library</Description>
       <Url>http://jquery.com/</Url>
-      <Buildscript>v{VERSION_NAME}.build</Buildscript>
     </Feature>
   </Features>
   
