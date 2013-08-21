@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PackageDefinition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  
+  <Name>JQuery.Plugins</Name>
+  <Description>Various JQuery Plugins.</Description>
+  <Url></Url>
+  
+  <Versions>
+    <Version>
+      <Name>0.1</Name>
+      <Buildscript>v0.1.build</Buildscript>
+    </Version>
+  </Versions>
+  
+  <Dependencies>
+    <Dependency>
+      <Name>jQuery</Name>
+      <Version>
+	<Name>=1.10.*</Name>
+      </Version>
+      <IsOptional>false</IsOptional>
+    </Dependency>
+  </Dependencies>  
+  
+  <Features>
+	<Feature>
+		<Name>Querystring</Name>
+		<Description>This plugin attempts to make working with querystrings easier.</Description>
+		<Url>https://github.com/kylefox/jquery-querystring</Url>
+	</Feature>
+	<Feature>
+		<Name>Complexify</Name>
+		<Description>Complexify aims to provide a good measure of password complexity for websites to use both for giving hints to users in the form of strength bars, and for casually enforcing a minimum complexity for security reasons.</Description>
+		<Url>http://danpalmer.me/jquery-complexify/</Url>
+	</Feature>
+  </Features>
+  
+</PackageDefinition>
