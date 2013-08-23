@@ -18,7 +18,7 @@
   
   <Dependencies>
     <Dependency>
-      <Name>nant</Name>
+      <Name>NAnt</Name>
       <Version>
 	<Name>&gt;0.91</Name>
       </Version>

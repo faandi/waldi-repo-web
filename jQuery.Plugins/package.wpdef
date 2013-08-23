@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   
-  <Name>JQuery.Plugins</Name>
-  <Description>Various JQuery Plugins.</Description>
+  <Name>jQuery.Plugins</Name>
+  <Description>Various jQuery Plugins.</Description>
   <Url></Url>
   
   <Versions>
